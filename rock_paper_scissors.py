@@ -31,7 +31,7 @@ def main():
     player_score = 0
 
     
-    print("Press 'R' for stone, 'P' for paper and 'S' for scissors")
+    print("Press 'R' for rock, 'P' for paper and 'S' for scissors")
 
     while True:
         player_input = input("")
